@@ -111,15 +111,10 @@ footer p {
 }
 .text {
 	color: black;
-	background-color: #9ac2ed;
-}
-.back {
 	background-color: white;
-	color: black;
 	text-align: center;
-	display: inline-block;
-	font-family:'Josefin Sans', sans-serif;
 }
+
 .paragraph {
 	background-color: white;
 	color: black;
